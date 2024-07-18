@@ -5,8 +5,6 @@ from elasticsearch import Elasticsearch
 import requests
 import os
 
-# test
-
 
 ## ----- HELPERS ----- ##
 def query_scf_api(
